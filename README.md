@@ -1,2 +1,2 @@
-# shark-tank
-Simple RESTful API backend where pitchers can pitch their ideas to investors 
+# Sharktank
+Simple RESTful API backend where budding entrepreneurs can pitch ideas for a business or product they wish to develop by providing their name, title & idea for the business, investment amount they expect to be fulfilled and the percentage of equity they are ready to shed away to the potential investors. Investors must be able to retrieve the list of all pitches and share their feedback/comment with a counter offer as per their interests.
